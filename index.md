@@ -37,6 +37,7 @@ The central theme of this workshop is to attract undergraduate students and earl
 
 ### Dinner @ Saturday June 22nd
 ### Morning Session, June 23rd ([Joint with PLDI's Mentoring Workshop](https://pldi19.sigplan.org/home/PLMW-PLDI-2019))
+Room 105B.
 
 **9 - 9:30**             How to Leverage communication and Social Network to Better Your Research
 
@@ -52,6 +53,7 @@ The central theme of this workshop is to attract undergraduate students and earl
 
 
 ### Afternoon Session, June 23rd
+Room 104A.
 
 **2:00 - 3:00**         Computer Architecture Research and the Future Prospects (David Patterson)
 
