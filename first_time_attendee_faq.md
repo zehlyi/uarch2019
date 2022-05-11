@@ -121,6 +121,7 @@ Although you don't only need to talk about research, please do keep it professio
 * [Geoff Kuenning's tips on attending your first conference](https://www.cs.hmc.edu/~geoff/conf-attend-howto.html). Not architecture specific, but good.
 * [Intentionally bad --but funny-- advice](http://pages.cs.wisc.edu/~markhill/conference-etiquette.html). Written by  architects Mark Hill and David Wood 22 years ago, but still relevant.
 * [Advice from Michael Ernst and David Notkin](https://homes.cs.washington.edu/~mernst/advice/conference-attendance.html).
+* [Networking Tips for Younger PhD Students](https://jxyzabc.blogspot.com/2016/05/networking-tips-for-younger-phd-students.html) From Jean Yang.
 
 ## I have a question you didn't answer!
 Send it my way.  Email (lena.olson@gmail.com), tweet me (@zehlyi), or [fill out this form (anonymous submissions allowed)](https://forms.gle/L1bUSSHgYRJk47Sh9).
